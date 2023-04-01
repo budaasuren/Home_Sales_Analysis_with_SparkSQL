@@ -8,6 +8,18 @@
 * Average price with multiple conditions by year.
 
 ## Executed the comparision for the different scenarios.
-* Ca
+* The case with no caching and no parquet
 
-![Screen Shot 2023-04-01 at 6 32 39 PM](https://user-images.githubusercontent.com/113545468/229318415-0a1a1dd5-373f-42f5-9b23-982159fe2add.png)
+![Screen Shot 2023-04-01 at 6 33 36 PM](https://user-images.githubusercontent.com/113545468/229318612-45eca44c-8b92-490d-801b-609826c7e85d.png)
+
+* The case with caching
+
+![Screen Shot 2023-04-01 at 6 35 17 PM](https://user-images.githubusercontent.com/113545468/229318923-496be669-5126-4d43-abc0-7c3e9b31357e.png)
+
+* Case with parquet
+
+![Screen Shot 2023-04-01 at 6 36 14 PM](https://user-images.githubusercontent.com/113545468/229319120-8f607e0a-1d68-4b3f-acba-7d8a1263a925.png)
+
+
+
+
