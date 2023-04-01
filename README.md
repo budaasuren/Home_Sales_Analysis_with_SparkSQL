@@ -1,6 +1,6 @@
 # Home_Sales_Analysis_with_SparkSQL_and_PySpark
 
-## Preprossing the date with PySpark
+## Preprossing the data with PySpark
 
 * Constructed the schema for the table and defined datatypes for each field using StructField form PySpark.
 * Created new columns using year and withColumn functions.
