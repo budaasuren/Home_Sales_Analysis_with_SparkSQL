@@ -11,7 +11,7 @@
 * Average price for 3 bedrooms and 3 bathrooms by year built.
 * Average price with multiple conditions by year.
 
-## Executed The Comparision for the Different Scenarios
+## Executed The Comparision for Different Scenarios
 * The case with no caching and no parquet
 
 ![Screen Shot 2023-04-01 at 6 33 36 PM](https://user-images.githubusercontent.com/113545468/229318612-45eca44c-8b92-490d-801b-609826c7e85d.png)
